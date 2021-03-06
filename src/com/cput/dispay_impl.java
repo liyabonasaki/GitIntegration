@@ -9,6 +9,6 @@ public class dispay_impl implements  display{
         d.setName("Master");
         d.setSurname("Saki");
         d.setAge(23);
-//        d.toString();
+        d.toString();
     }
 }
