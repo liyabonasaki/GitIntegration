@@ -8,7 +8,10 @@ public class Main {
         System.out.println("Commit 2");
 
         dispay_impl di = new dispay_impl();
-        di.showdata();
-        di.toString();
+        data d = new data();
+        d.getName();
+
+//        di.showdata();
+
     }
 }
