@@ -9,5 +9,6 @@ public class Main {
 
         dispay_impl di = new dispay_impl();
         di.showdata();
+        di.toString();
     }
 }
